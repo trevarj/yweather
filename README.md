@@ -1,6 +1,7 @@
 ## Weather tool
+**Archived**: Using a [simple script](https://github.com/trevarj/dotfiles/blob/96e3746d7acf5d6a10dc9ce1729e2a22ef37f78c/polybar/.config/polybar/weather.sh) instead.
 
-Used in my polybar to show the current temperature and condition icon.
+~~Used in my polybar to show the current temperature and condition icon.~~
 
 ```
 USAGE:
